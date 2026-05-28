@@ -1,0 +1,32 @@
+aid: transport-for-norway
+name: Transport for Norway
+description: "Transport APIs and dataset for Norway"
+url: https://developer.entur.org/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Norway
+    description: "Transport APIs and dataset for Norway"
+    humanURL: https://developer.entur.org/
+    baseURL: https://developer.entur.org/
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://developer.entur.org/
+common:
+  - type: Website
+    url: https://developer.entur.org/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
