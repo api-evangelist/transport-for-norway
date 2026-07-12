@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://developer.entur.org/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/transport-for-norway-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/transport-for-norway-domain-security.yml
   - type: Website
     url: https://developer.entur.org/
   - type: PublicAPIsListing
