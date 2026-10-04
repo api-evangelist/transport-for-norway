@@ -39,7 +39,6 @@ apis:
   - name: Transport for Norway
     description: "Transport APIs and dataset for Norway"
     humanURL: https://developer.entur.org/
-    baseURL: https://developer.entur.org/
     tags:
       - Transportation
     properties:
